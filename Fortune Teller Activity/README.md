@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+ This a fortune teller game. The computer randomly picks a number between 0 to 10. Then, the program then reads the number and outputs a fortune. If the number is between 0 and 3, then they have a low fortune. If the number is between 4 and 7, then they have an average fortune. If the number is between 8 and 10, then they have a great fortune. Otherwise, any other fortune should not be read by the program. 
