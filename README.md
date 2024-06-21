@@ -1,2 +1,2 @@
 # JavaScript Coding
-The demand for web developers is growing faster than ever before, and a world full of opportunities. 
+The demand for web developers is growing faster than ever before, and a world full of opportunities. This repository contains projects that reflect the concepts of JavaScript. The projects inculdes programs that contain functions, arrays, and scopes. This code contains some of the newest features of ECMAScript, the standard for JavaScript. This all comes to show how the cirriculum designed by MIT, helps build on demand skills that helps motivate learners with a boosting portfolio and a certificate.
