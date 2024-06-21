@@ -1,1 +1,2 @@
 # Unit Testing Activity
+My task was to provide a list of possible Unit Tests that covered certain requirments. For each step of the listed requirements, I create the unit tests that captured the specific requirement. I had to write the unit tests, and implement the function Greet()
